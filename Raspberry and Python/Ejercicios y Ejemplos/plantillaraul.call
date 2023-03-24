@@ -1,0 +1,4 @@
+Channel: IAX2/4001
+CallerID: Alarma de robo <Alarma>
+Application: Playback
+Data: /var/lib/asterisk/sounds/es/custom/Ebrios_patanes_del_jurado_-_Simpson-5sfuH6vFahk

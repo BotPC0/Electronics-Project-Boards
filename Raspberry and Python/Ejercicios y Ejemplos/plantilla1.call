@@ -1,0 +1,4 @@
+Channel: IAX2/4000
+CallerID: Aviso Importante
+Application: Playback
+Data: /var/lib/asterisk/sounds/es/custom/prueba2
